@@ -1,6 +1,4 @@
-:::writing{variant=“standard” id=“93571”}
-
-🚀 Simple Login System (My First JSON Project)
+🚀 Simple Login System (My First JSON Project) (April 4th 2026)
 
 This is one of my first real Python projects where I practiced working with files and JSON.
 
@@ -58,4 +56,3 @@ Yeah, it’s simple — but it’s a big step for me.
 More projects coming soon!
 
 - Davi🧑‍💻
-:::
