@@ -52,7 +52,7 @@ Just a practice project to learn file handling and JSON.
 
 ## 🧩 Notes
 
-Yeah, it’s simple — but it’s a big step for me.
+Yeah, it’s simple, but it’s a big step for me.
 More projects coming soon!
 
 ## - Davi🧑‍💻
